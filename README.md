@@ -1,7 +1,7 @@
 # Assignments
  Course assignments 
  # Q1 
- <img src="Q1.png" width="1000" height="500">
+ <img src="Q1.jpg" width="1000" height="500">
  # Q2
  <img src="Q2_3.png" width="1000" height="500">
  # Q3
